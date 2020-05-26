@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085491046947",
+    "firebase_url": "https://dynamiclinks-d200f.firebaseio.com",
+    "project_id": "dynamiclinks-d200f",
+    "storage_bucket": "dynamiclinks-d200f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085491046947:android:d3eff448527f7f1846df96",
+        "android_client_info": {
+          "package_name": "com.example.dynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085491046947-3t6959kugruqtifrhhqccdicu4m9slsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dynamiclinks",
+            "certificate_hash": "48c14a2a0a7678692006bcf715bfdf2b5a3ef3bd"
+          }
+        },
+        {
+          "client_id": "1085491046947-8esg3nm737j5fsgu8rm7s6ll00ahtlmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZ0KA7nwFQcuTnHhO1HSV6T1AKpIvE6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085491046947-8esg3nm737j5fsgu8rm7s6ll00ahtlmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
